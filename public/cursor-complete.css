@@ -1,0 +1,17 @@
+/* 
+  Complete cursor solution with multiple approaches
+  1. Direct URL with hotspot coordinates
+  2. Absolute paths
+  3. Relative paths from public
+*/
+
+/* Single working cursor implementation */
+* {
+  cursor: url('/cursors/cursor.png'), auto !important;
+}
+
+a, button, .clickable, input[type="button"], input[type="submit"], input[type="reset"],
+[role="button"], select, [onclick], .pixel-folder, .window-button, .taskbar-button, 
+.nav-tab {
+  cursor: url('/cursors/pointer.png'), pointer !important;
+} 
