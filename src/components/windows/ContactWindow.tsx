@@ -104,7 +104,7 @@ const ContactWindow: React.FC = () => {
           <h3 className="text-pink-primary text-sm mb-2">Connect With Me</h3>
           <div className="space-y-2">
             <a
-              href="mailto:anushkasinghpratap@gmail.com"
+              href="mailto:navyasreeboddu@gmail.com"
               className="flex items-center text-xs text-pink-dark hover:text-pink-primary"
             >
               <Mail size={14} className="mr-2" />
@@ -122,13 +122,13 @@ const ContactWindow: React.FC = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/navyasree-boddu-134a04296/"
+              href="https://www.linkedin.com/in/navyasree1405"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center text-xs text-pink-dark hover:text-pink-primary"
             >
               <Linkedin size={14} className="mr-2" />
-              linkedin.com/in/navyasree
+              linkedin.com/in/navyasree1405
             </a>
           </div>
         </div>
